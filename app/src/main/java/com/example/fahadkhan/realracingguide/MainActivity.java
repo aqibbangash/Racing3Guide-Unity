@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
         button1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                url="http://www.imore.com/real-racing-3-gameplay-guide-use-these-tips-and-tricks-get-top-step-podium";
+                url="https://en.wikipedia.org/wiki/Doodle_Jump";
                 Intent intent = new Intent (MainActivity.this, webView.class);
                 startActivity(intent);
                 //fbInterstitialAd.show();
@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
         button2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                url="http://rr3.wikia.com/wiki/Strategy";
+                url="http://www.gamerevolution.com/cheats/doodle-jump";
                 Intent intent = new Intent (MainActivity.this, webView.class);
                 startActivity(intent);
                 //fbInterstitialAd.show();
@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
         button3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                url="https://levelskip.com/misc/Real-Racing-3-Tips-Hints-and-Real-Cheats";
+                url="http://www.getpcdownload.com/doodle-jump-pc-download/";
                 Intent intent = new Intent (MainActivity.this, webView.class);
                 startActivity(intent);
                 //fbInterstitialAd.show();
@@ -72,7 +72,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
-                url="https://levelskip.com/misc/Real-Racing-3-Strategy-Tips-and-Tricks-How-to-Have-Fun-Racing-Without-Spending-a-Dime";
+                url="http://appcheaters.com/doodle-jump-race-cheats-tricks/";
                 Intent intent = new Intent (MainActivity.this, webView.class);
                 startActivity(intent);
                 //fbInterstitialAd.show();
@@ -82,7 +82,7 @@ public class MainActivity extends AppCompatActivity {
         button5.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                url="http://heavy.com/games/2013/11/real-racing-3-tips-tricks-cheats-ios-android-mobile-games/";
+                url="http://www.wikihow.com/Be-Good-at-Doodle-Jump";
                 Intent intent = new Intent (MainActivity.this, webView.class);
                 startActivity(intent);
                 //fbInterstitialAd.show();
@@ -93,7 +93,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
-                url="http://www.148apps.com/news/real-racing-3-tips-tricks-cheats/";
+                url="http://www.ehow.com/how_8674008_play-doodle-jump.html";
                 Intent intent = new Intent (MainActivity.this, webView.class);
                 startActivity(intent);
                 //fbInterstitialAd.show();

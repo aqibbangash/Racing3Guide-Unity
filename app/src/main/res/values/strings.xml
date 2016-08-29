@@ -1,5 +1,13 @@
 <resources>
-    <string name="app_name">RealRacingGuide</string>
+    <string name="app_name">Doodle Jump Guide </string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_web_view">Real Racing Guides</string>
+    <string name="button1">Doodle Jump</string>
+    <string name="button2">Doodle Jump Cheats</string>
+    <string name="button3">Download Instruction for Doodle Jump</string>
+    <string name="button4">Doodle Jump Cheats for Race</string>
+    <string name="button5">How to be at Doodle Jump</string>
+    <string name="button6">How to play Doodle Jump</string>
+    <string name="button7">Tips for Doodle Jump</string>
+    <string name="bgText">Guide For Doodle Jump</string>
 </resources>
